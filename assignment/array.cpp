@@ -759,17 +759,17 @@ int main() {
 //     for(int i=0;i<N;i++){
 //         cin>>arr[i];
 //     }
-//     long long output[N];
-//     long long temp = 1;
-//     for(int i=0;i<N;i++){
-//         output[i] = temp;
-//         temp *= arr[i];
-//     }
-//     temp = 1;
-//     for(int i=N-1;i>=0;i--){
-//         output[i] *= temp;
-//         temp *= arr[i];
-//     }
+    // long long output[N];
+    // long long temp = 1;
+    // for(int i=0;i<N;i++){
+    //     output[i] = temp;
+    //     temp *= arr[i];
+    // }
+    // temp = 1;
+    // for(int i=N-1;i>=0;i--){
+    //     output[i] *= temp;
+    //     temp *= arr[i];
+    // }
 //     for(int i=0;i<N;i++){
 //         cout<<output[i]<<" ";
 //     }
